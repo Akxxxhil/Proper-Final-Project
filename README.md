@@ -1,4 +1,4 @@
 # Steps to run this Project
-# cd JuicePilo
-# npm install
-# npm run dev
+1.cd JuicePilo
+2.npm install
+3.npm run dev

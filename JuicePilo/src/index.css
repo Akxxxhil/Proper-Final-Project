@@ -26,7 +26,8 @@ body {
   margin: 0;
   display: flex;
   place-items: center;
-  min-width: 320px;
+  width: 90%;
+  max-width: 500px;
   min-height: 100vh;
 }
 
@@ -53,6 +54,15 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+
+.navbar-container{
+  display: flex;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 @media (prefers-color-scheme: light) {
   :root {
